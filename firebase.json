@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "public": "public",
+    "timeout": "60s",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
