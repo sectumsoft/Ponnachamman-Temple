@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sectumsoft.github.io/Ponnachamman-Temple/sitemap.xml
